@@ -1,0 +1,835 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"al",
+				"vertical-align"
+			],
+			[
+				"Abe_ADG",
+				"Abe_ADG_MakeMIDI"
+			],
+			[
+				"Str",
+				"StringLeft"
+			],
+			[
+				"Ableton",
+				"Ableton_Name"
+			],
+			[
+				"WinActi",
+				"WinActive()"
+			],
+			[
+				"Win",
+				"WinClose"
+			],
+			[
+				"A_SCript",
+				"A_ScriptName"
+			],
+			[
+				"WinWait",
+				"WinWait_NotHung"
+			],
+			[
+				"Error",
+				"ErrorLevel"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 5578,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "default.css",
+			"settings":
+			{
+				"buffer_size": 11523,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 221.0,
+		"last_filter": "remove",
+		"selected_items":
+		[
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"livereload",
+				"Snippet: Insert livereload.js script"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"git diff",
+				"Git: Diff"
+			],
+			[
+				"gi show",
+				"Git: Show"
+			],
+			[
+				"git show",
+				"Git: Show"
+			],
+			[
+				"aut",
+				"Set Syntax: AutoHotkey"
+			],
+			[
+				"git sh",
+				"Set Syntax: SublimeGit Show"
+			],
+			[
+				"gi status",
+				"Git: Status"
+			],
+			[
+				"git log",
+				"Git: Log"
+			],
+			[
+				"AutoHo",
+				"Set Syntax: AutoHotkey"
+			],
+			[
+				"diff",
+				"Git: Diff"
+			],
+			[
+				"Git com",
+				"Git: Quick Commit"
+			],
+			[
+				"git commi",
+				"Git: Quick Commit"
+			],
+			[
+				"git comit",
+				"Git: Commit"
+			],
+			[
+				"Refresh",
+				"Enable Autorefresh"
+			],
+			[
+				"pull",
+				"PackageSync: Sync Online - Pull Settings from Online Sync Folder"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"list pa",
+				"Package Control: List Packages"
+			],
+			[
+				"pull settings",
+				"PackageSync: Sync Online - Pull Settings from Online Sync Folder"
+			],
+			[
+				"git pull",
+				"Git: Pull"
+			],
+			[
+				"packagesync",
+				"PackageSync: Sync Online - Pull Settings from Online Sync Folder"
+			],
+			[
+				"git remote",
+				"Git: Remote"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"Git push",
+				"Git: Push"
+			],
+			[
+				"Git status",
+				"Git: Status"
+			],
+			[
+				"git push",
+				"Git: Push Current Branch"
+			],
+			[
+				"checkout",
+				"Git: Checkout"
+			],
+			[
+				"git commit",
+				"Git: Quick Commit"
+			],
+			[
+				"git branch",
+				"Git: Checkout New Branch"
+			],
+			[
+				"commit",
+				"Git: Quick Commit"
+			],
+			[
+				"status",
+				"Git: Status"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"git init",
+				"Git: Init"
+			],
+			[
+				"GitStatus",
+				"Git: Status"
+			],
+			[
+				"Install",
+				"Package Control: Install Package"
+			],
+			[
+				"PackageSync",
+				"PackageSync: Sync Online - Push Settings to Online Sync Folder"
+			],
+			[
+				"PAckageSync",
+				"PackageSync: Sync Online - Push Settings to Online Sync Folder"
+			],
+			[
+				"Instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Remove PAck",
+				"Package Control: Remove Package"
+			],
+			[
+				"Inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Remove Pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"ListPack",
+				"Package Control: List Packages"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"unman",
+				"Package Control: List Unmanaged Packages"
+			],
+			[
+				"reinstall",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"discov",
+				"Package Control: Discover Packages"
+			],
+			[
+				"Package Control: add",
+				"Package Control: Add Repository"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 1136.0
+	},
+	"console":
+	{
+		"height": 119.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/JFK/r/site"
+	],
+	"file_history":
+	[
+		"/C/Users/JFK/r/site/default.css",
+		"/C/Users/JFK/r/site/index.html",
+		"/C/Users/JFK/Dropbox/$$$.txt",
+		"/C/Users/JFK/Downloads/RME/fut_usb_win/readme.txt",
+		"/C/Users/JFK/Downloads/RME/driver_fw_win_3116/readme.txt",
+		"/C/Users/JFK/Desktop/wa.bat",
+		"/C/Users/JFK/AppData/Roaming/Ableton/Live 9.6.1b5/Preferences/Options.txt",
+		"/D/!Install/VST/ReaPlugs/midi_arpbangzero/midi_arpbangzero_v090/README.txt",
+		"/C/Users/JFK/Downloads/X9DAi2.813/Readme for AMI BIOS.txt",
+		"/C/Users/JFK/Downloads/X9DAi5.509/Readme for AMI BIOS 3.0NF.txt",
+		"/C/Users/JFK/Downloads/Celemony.Melodyne.Studio.4.v4.0.4.001.MacOSX-R2R/R2R.nfo",
+		"/C/Users/JFK/AppData/Roaming/Ableton/Live 9.6.1b2/Preferences/Options.txt",
+		"/C/Users/JFK/AppData/Roaming/Ableton/Live 9.6/Preferences/Options.txt",
+		"/C/Program Files/OpenVPN/doc/INSTALL-win32.txt",
+		"/C/Users/JFK/AppData/Roaming/Ableton/Live 9.6.1b1/Preferences/Log.txt",
+		"/C/Users/JFK/r/kb/KB.Simple.ini",
+		"/F/Kontakt/Spitfire/Spitfire.PP017.Evo.Grid.01.Strings.KONTAKT/spitfire audio evo grid - install notes.nfo",
+		"/C/Users/JFK/r/kb/Outs.New.ini",
+		"/C/Users/JFK/Dropbox/Cubase/Patches/u-he/Satin/Support/com.u-he.Satin.UIprefs.txt",
+		"/C/Users/JFK/r/kb/lib/Abe_Get1stDeviceEdit_OLD.ahk",
+		"/C/Users/JFK/r/kb/lib/Abe_Get1stDeviceEdit_OLD",
+		"/C/Users/JFK/r/kb/lib/KB_Service.ahk",
+		"/C/Users/JFK/r/kb/lib/Search_Screen.ahk",
+		"/C/Users/JFK/r/kb/HangDetectv0.5.ahk",
+		"/D/!Install/Software/W10/New/Post_Install/Post_Install.txt",
+		"/D/!Install/Software/W10/W8 (Fast Back)/!DONE/NetLimiter 4.0.13.0 + Crack [x86 x64] - Joker/Instructions !!!.txt",
+		"/D/!Install/Software/W10/W8 (Fast Back)/!DONE/NetLimiter 4.0.13.0 + Crack [x86 x64] - Joker/NLSVC Restart.bat",
+		"/C/Users/JFK/AppData/Roaming/Ableton/Live 9.6b1/Preferences/Options.txt",
+		"/D/!Install/Software/Ableton/Cycling.74.Max.v7.0.3.Incl.Patch.and.Keygen-R2R/R2R/R2R.txt",
+		"/C/Users/JFK/r/kb/Keybase.Latest.ahk",
+		"/D/!Install/Software/Ableton/Cycling.74.Max.v7.0.3.Incl.Patch.and.Keygen-R2R/R2R/MAX_Host_Patch.cmd",
+		"/D/!Install/Software/PDF-XChange Viewer Pro 2.5.309.0 Full_Lite RePack (& Portable) by KpoJIuK/PDF-XChange.Viewer.PRO.v2.5.309-FULL/README.txt",
+		"/C/Users/JFK/r/kb/App_Reveal.ahk",
+		"/C/Users/JFK/r/kb/lib/KB_Settings.ahk",
+		"/D/!Install/Software/W10/W8/Utilities/bluescreenview-x64/BlueScreenView.cfg",
+		"/D/!Install/VST/Camel.Audio.Camel.Space.v1.50.1.608.HAPPY.NEW.YEAR-HEXWARS/hw-242/CamelSpaceWin-1-50-1-608/CamelSpace-1-50-1-AAX-Win/readme.txt",
+		"/D/!Install/VST/Camel.Audio.Camel.Space.v1.50.1.608.HAPPY.NEW.YEAR-HEXWARS/HEXWARS.nfo",
+		"/C/Users/JFK/Documents/jBridge/SettingsFilesFor32BitPlugins/Oxford Inflator Native.jBridge",
+		"/E/CORY (Supplement II)/kontakt 3 crack -------/READ THIS.txt",
+		"/C/adhoc.cmd",
+		"/C/Users/JFK/AppData/Roaming/Ableton/Live 9.5.1b5/Preferences/Log.txt",
+		"/C/Users/JFK/Desktop/bookmarks_1_1_16.html",
+		"/C/Users/JFK/Downloads/64bit Win7 Intel USB 3.0 Drivers v4.0.3.49 WHQL/Import Certificate.cmd",
+		"/C/Users/JFK/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/D/!Install/VST/!AudioUTOPIA (Extracted)/Avid.Pro.Tools.HD.v12.3.1.88512.WIN.x64.READ.NFO-AudioUTOPiA/AudioUTOPiA.nfo",
+		"/C/Users/JFK/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/D/!Install/VST/Sugar.Bytes.Thesys.v1.6.2.Incl.Keygen-R2R/R2R.nfo",
+		"//Concert-pc/archived/!Install/VST/Valhalla/Valhalla.DSP.ValhallaPlate.v1.0.0.Incl.Patch.and.Keygen-R2R/R2R/R2R.txt",
+		"/D/!Install/VST/Waves.Complete.v9r24-R2R/R2R.nfo",
+		"/D/!Install/VST/FabFilter.Total.Bundle.v2015.12.11.Incl.Patch.and.Keygen-R2R/R2R/R2R.txt",
+		"/D/!Install/VST/Beatskillz.Slam.Dawg.v1.0-UNION/crack/crack.txt",
+		"/C/KB.Simple.ini",
+		"/D/!Install/Software/Avid/Pro_Tools_10_3_4_Installer_78989000/Install Instructions For Windows 8.txt",
+		"/D/!Install/VST/Cytomic.The.Glue.v1.3.12.Incl.Patched.and.Keygen-R2R/R2R/R2R.txt",
+		"/D/!Install/VST/Archetype.Instruments.Arc.5.v2.03-R2R/R2R.nfo",
+		"/D/!Install/Software/W10/New/Post_Install.txt",
+		"/C/Users/JFK/AppData/Roaming/Sublime Text 3/Packages/User/One Dark New/One Dark_New.tmTheme",
+		"/C/Users/JFK/r/Keybase.Latest.ahk",
+		"/C/Users/JFK/r/KB.Ableton.ahk",
+		"/C/Users/JFK/r/lib/KB.Common.ahk",
+		"/C/Users/JFK/r/kb/KB.Ableton.ahk",
+		"/D/!Install/Software/W10/New/Utility/DisplayFusionSerial.txt",
+		"/C/Program Files/VstPlugins (Bridged)/AutoTuneVST.64.txt",
+		"/C/Users/JFK/Documents/jBridge/SettingsFilesFor32BitPlugins/AutoTuneVST.jBridge",
+		"/C/Users/JFK/r/kb/lib/Keybase.Test.ahk",
+		"/C/Users/JFK/r/kb/lib/KB.Common.ahk",
+		"/D/!Install/VST/2C.Audio.Breeze.v1.2.0-R2R/R2R.nfo",
+		"/D/!Install/VST/Waldorf.Waldorf.Edition.v2.1.Incl.Keygen-R2R/r2r-3931/R2R/R2R.txt",
+		"/D/!Install/VST/serum.txt",
+		"/C/AeroGlass/minidump-12-21-02-34-32.dmp",
+		"/C/Users/JFK/r/kb/KB.Simple_Test.ini",
+		"/D/!Install/Software/Adobe Photoshop CC 2015 (20150529.r.88) (32+64Bit) + Crack/ReadMe.txt",
+		"/D/!Install/Software/W10/New/Programs - Essential/bvckup2 License.txt",
+		"/C/Users/JFK/Repos/keybase/.git/config",
+		"/C/Users/JFK/Repos/tritonality.github.io/index.html",
+		"/I/Ableton/Ideas/2015/1220.01/desktop.ini",
+		"/D/Dropbox/Cubase/Template/Assets/ahk/Latest/Final/Keybase.Latest.ahk",
+		"/D/!Install/VST/Tritik.tkDelay.v1.3.2.Incl.Keygen-R2R/R2R/R2R.txt",
+		"/Y/AudioNews/AudioUTOPiA/Audifed.U73b.Compressor.v1.1.2.WIN.VST-AudioUTOPiA/AudioUTOPiA.nfo",
+		"/D/b.txt",
+		"/D/!Install/Software/W10/New/Utility/Tracking/MTRTv2_2/MTRT - Microsoft Telemetry Removal Tool/help/ReadMe.txt",
+		"/D/!Install/Software/W10/New/Utility/Tracking/MTRTv2_2/MTRT - Microsoft Telemetry Removal Tool/data/Reg.ini",
+		"/D/!Install/Software/W10/New/Utility/Tracking/MTRTv2_6/MTRT/data/SchedTasks.ini",
+		"/D/!Install/Software/W10/New/Utility/Tracking/MTRTv2_6/MTRT/data/Reg.ini",
+		"/D/!Install/Software/W10/New/Utility/Tracking/MTRTv2_6/MTRT/data/PersistentRoutes.ini",
+		"/D/!Install/Software/W10/New/Utility/Tracking/MTRTv2_6/MTRT/data/KB.ini",
+		"/D/!Install/Software/W10/New/Utility/Tracking/MTRTv2_6/MTRT/data/hosts.ini",
+		"/D/!Install/Software/W10/New/Utility/Tracking/MTRTv2_6/MTRT/help/Win10 Router HOSTS to block.txt",
+		"/D/!Install/Software/W10/New/Utility/Tracking/MTRTv2_6/MTRT/help/ReadMe.txt",
+		"/D/!Install/Windows/Windows 10 Pro-Core X64 6in1 OEM en-US Dec 2015 {Generation2}/Windows 10 Pro-Core X64 6in1 OEM en-US Dec 2015 {Generation2}.txt",
+		"/G/sources/EI.CFG",
+		"/D/Dropbox/Cubase/Template/Assets/ahk/Latest/Final/Outs.New.ini",
+		"/D/Dropbox/Cubase/Template/Assets/ahk/Latest/Final/HangDetectv0.5.ahk",
+		"/C/Users/JFK/Documents/jBridge/SettingsFilesFor32BitPlugins/Valley People Dyna-mite.jBridge",
+		"/C/Users/JFK/AppData/Roaming/Ableton/Live 9.5.1b2/Preferences/Log.txt",
+		"/D/Dropbox/Cubase/Template/Assets/ahk/Latest/Final/Lib/ABE_SETTINGS.ahk",
+		"/D/Dropbox/Cubase/Template/Assets/ahk/Latest/Final/App_Reveal.ahk",
+		"/C/Users/JFK/AppData/Roaming/Sublime Text 3/Packages/PackageSync/PackageSync.sublime-settings",
+		"/C/Users/JFK/AppData/Roaming/Sublime Text 3/Packages/AutoHotkey/Default (Windows).sublime-keymap",
+		"/C/Users/JFK/AppData/Roaming/Sublime Text 3/Packages/User/AutoHotkey.sublime-settings",
+		"/D/Dropbox/Cubase/Template/Assets/ahk/Latest/Final/Lib/KB.Common.ahk",
+		"/D/Dropbox/Cubase/Template/Assets/ahk/Latest/Final/Lib/KB.Ableton.ahk",
+		"/D/Dropbox/Cubase/Template/Assets/ahk/Latest/R/KillDialogs.R.ahk",
+		"/D/Dropbox/Cubase/Template/Assets/ahk/Latest/Final/KillDialogsv0.5.ahk",
+		"/D/Dropbox/Cubase/Template/Assets/ahk/Latest/Final/Abe_Spy.ahk",
+		"/C/Users/JFK/Documents/jBridge/SettingsFilesFor32BitPlugins/amp-vision.jBridge",
+		"/C/Program Files/Sublime Text 3/Avis_Sublime4Autohotkey/Sublime4Autohotkey.ahk",
+		"/C/Users/JFK/AppData/Roaming/REAPER/Scripts/KB.py",
+		"/C/Users/JFK/Dropbox/Cubase/Template/Assets/ahk/Latest/Final/lib/Keybase.Test.ahk",
+		"/C/Users/JFK/Dropbox/Cubase/Template/Assets/ahk/Latest/Final/lib/KB.Ableton.ahk",
+		"/C/Users/JFK/Dropbox/Cubase/Template/Assets/ahk/Latest/Final/lib/KB.Common.ahk",
+		"/C/Users/JFK/Dropbox/Cubase/Template/Assets/ahk/Latest/Final/Keybase.Latest.ahk",
+		"/C/Users/JFK/Dropbox/Cubase/Template/Assets/ahk/Latest/Final/KillDialogsv0.5.ahk",
+		"/D/!Install/VST/Plugin.Alliance.Complete.v2014.1.0.PC.OSX-R2R/Plugin.Alliance.Complete.v2014.1.0-R2R/R2R/R2R.txt",
+		"/D/!Install/VST/Plugin.Alliance.Complete.v2013.R3-R2R/R2R.nfo",
+		"/D/!Install/VST/Plugin.Alliance.Complete.v2014.1.0.PC.OSX-R2R/Plugin.Alliance.Complete.v2014.1.0-R2R/R2R.nfo",
+		"//AORUS_X7/Box/New Text Document.txt",
+		"/C/Users/JFK/Dropbox/Cubase/Template/Assets/ahk/Latest/Final/lib/ABE_SETTINGS.ahk",
+		"/F/link.txt",
+		"/D/!Install/VST/JORDAN (Supplement)/Avid.Pro.Tools.HD.10.3.10.Mac.OSX.[Kd.by.openssh]/readme.txt",
+		"/C/Users/JFK/Dropbox/Cubase/Template/Assets/ahk/Latest/Final/Lib/Keybase.Test.ahk",
+		"/C/Users/JFK/Dropbox/Cubase/Template/Assets/ahk/Latest/Final/Lib/ABE_SETTINGS.ahk",
+		"/C/Users/JFK/Dropbox/Cubase/Template/Assets/ahk/Latest/Final/Lib/KB.Ableton.ahk",
+		"/C/Users/JFK/Dropbox/Cubase/Template/Assets/ahk/Latest/Final/App_Reveal.ahk",
+		"/C/Users/JFK/Dropbox/Cubase/Template/Assets/ahk/Latest/Final/Lib/KB.Common.ahk",
+		"/C/Users/JFK/AppData/Roaming/Direct Folders/menu.dat",
+		"/D/Dropbox/Cubase/Backups/menu.dat",
+		"/C/Users/JFK/Dropbox/Cubase/Template/Assets/ahk/Latest/Final/Lib/ABE_SETTINGS (Concert-M's conflicted copy 2015-09-22).ahk"
+	],
+	"find":
+	{
+		"height": 64.0
+	},
+	"find_in_files":
+	{
+		"height": 92.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"hidden",
+			"script",
+			"lane",
+			"Abe_RecEnable_Latch()",
+			"HHKB",
+			"!r",
+			"!r::",
+			"remap",
+			"SendInput Ss ",
+			"Send Ss ",
+			"Ss ",
+			"Ss",
+			"^!",
+			"!^s:",
+			"!+s",
+			"exclusive",
+			"Abe_ADG_NEW_Inst_Inverted",
+			"HHKB",
+			"Abe_ClickFolder",
+			"^tab",
+			"!1:",
+			"Abe_ADG_NEW_Inst(which)",
+			"Abe_GetPos",
+			"Abe_ADG_MakeMIDI",
+			"Abe_ADG_NEW_Inst",
+			"Abe_ADG_MakeMIDI",
+			"Abe_ADG_NEW_Inst",
+			"WinWait",
+			"Abe_ADG_MakeMIDI",
+			"!2",
+			"!s::",
+			"!r::",
+			"!r",
+			"!w::",
+			"Abe_GetImg",
+			"Abe_ADG_NEW_Inst",
+			"Abe_ADG_MakeMIDI",
+			"F1::",
+			"Abe_ADG_MakeMIDI",
+			"!1::",
+			"Abe_ClickImg",
+			"F13",
+			"new lane",
+			"ALL_MELODIC_MODE",
+			"Abe_ADG_MakeMIDI",
+			"Focus",
+			"Duplicate",
+			"Fresh IDea",
+			"Abe_Duplicate_Freeze_Flatten",
+			"Freeze",
+			"!r::",
+			"{Del",
+			"{Del}",
+			"itunes",
+			"HHKB",
+			"WinWaitNot",
+			"!x::",
+			"Abe_Click",
+			"Abe_move",
+			"KB_SETTINGS",
+			"HHKB",
+			"cubase",
+			"^s::",
+			"KB_Settings",
+			"2x",
+			"R_Path",
+			"JFK",
+			"Abe_ControlSend",
+			"#If",
+			"Explorer",
+			"Abe_Mouse",
+			"!+s",
+			"::",
+			"Abe_Selected_Track",
+			"Wait_For_user",
+			"HHKB",
+			"Check",
+			"Tray_info",
+			".Insert",
+			"insert",
+			"KTray",
+			"tray",
+			"KB tray",
+			"KB_Tray",
+			"new_val",
+			"KB_Settings",
+			"freeze_track",
+			"TrackOp",
+			"Dell_5510",
+			"KB_Settings",
+			"Dell_5510",
+			"HHKB",
+			"Abe_Get",
+			"F3::",
+			"GetFirst",
+			"sX",
+			"WinWait_NotHung",
+			"WinWaitNo",
+			"1490",
+			"tooltip",
+			"CubaseAbe_IsRec",
+			"Abe_IsRec",
+			"device",
+			"first",
+			"Plugin",
+			"Device",
+			"Abe_GetPos",
+			"456",
+			"Rel_calc",
+			"rel_calc",
+			"Plugin'",
+			"Tray",
+			"KB_Tray",
+			"Cubase",
+			"DuplicateClean",
+			"wheel",
+			"Freeze",
+			"!+e::",
+			"Abe_ClickImg",
+			"Search_Screen",
+			"Abe_GetIm",
+			"Abe_IsRec",
+			"Search_Screen",
+			".OMNI",
+			"Search_Screen",
+			"Tooltip",
+			"show_tip",
+			"show_top"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"I:\\"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5578,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1556,
+								1556
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 169.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "default.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11523,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								223,
+								223
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "default.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11523,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5811,
+								5811
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2293.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5578,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 64.0
+	},
+	"input":
+	{
+		"height": 135.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git-checkout":
+	{
+		"height": 194.0
+	},
+	"output.git-commit":
+	{
+		"height": 223.0
+	},
+	"output.git-pull":
+	{
+		"height": 194.0
+	},
+	"output.git-push":
+	{
+		"height": 194.0
+	},
+	"output.git-remote":
+	{
+		"height": 194.0
+	},
+	"pinned_build_system": "",
+	"project": "site.sublime-project",
+	"replace":
+	{
+		"height": 74.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 400.0,
+		"last_filter": "abe_",
+		"selected_items":
+		[
+			[
+				"abe_",
+				"Abe_SelectTrack"
+			],
+			[
+				"abe_select",
+				"Abe_SelectTrack"
+			]
+		],
+		"width": 400.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 362.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
