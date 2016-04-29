@@ -260,7 +260,7 @@
 	{
 		display: inline-block;
 		margin-top: 2em;
-		padding: 1em 2em 1em 2em;
+		padding: 10px;
 		background: #8DCB89;
 		border-radius: 8px;
 		letter-spacing: 0.20em;
@@ -330,8 +330,8 @@
 	#header-wrapper
 	{
 		overflow: hidden;
-		padding: 5em 0em;
-		background: #8DCB89;
+		/*padding: 5em 0em;*/
+		/*background: #8DCB89;*/
 	}
 
 	#header

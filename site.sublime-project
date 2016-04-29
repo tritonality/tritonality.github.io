@@ -4,5 +4,10 @@
 		{
 			"path": "."
 		}
-	]
+	],
+	"settings":
+	{
+		"color_scheme": "Packages/One Dark Material - Theme/schemes/OneDark.tmTheme"
+	}
 }
+
